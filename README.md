@@ -24,6 +24,8 @@ Hannah Jensen: Data Analyzer and Project Documentor
 Kiara Pineda: Visualizer and Client Liaison
 
 Yangchen Lhamo: Data Modeler and Team Manager 
+<img width="1904" height="2094" alt="image" src="https://github.com/user-attachments/assets/8db7d1bc-74ae-4709-a558-f1bffe017f98" />
+
 
 ## Description 📃
 The objective of this project is to develop a comprehensive, data-driven career guidance tool for IT students that connects real-world job market demands with academic coursework at GGC. By analyzing skill requirements from current job postings and mapping them to courses offered across IT-related majors, the tool aims to help students make informed decisions about their career paths, skill development, and course selection. The long-term goal is to provide an interactive, continuously updated platform that reflects evolving industry needs and clearly demonstrates how academic programs align with entry-level IT roles.
