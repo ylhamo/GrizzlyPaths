@@ -4,7 +4,16 @@
 
 ## Team: Grizzly26
 
-Hannah Jensen & Adis: Data Analyzer and Project Documentor 
+Adis Mahmic: Data Analyzer and Project Documentor
+
+<img
+  src="https://github.com/user-attachments/assets/b7b58d96-ae8c-4763-9d15-23cb319dc84f"
+  alt="ChatGPT Image Jan 18, 2026"
+  width="256"
+  height="384"
+/>
+
+Hannah Jensen: Data Analyzer and Project Documentor 
 
 Kiara Pineda: Visualizer and Client Liaison
 
