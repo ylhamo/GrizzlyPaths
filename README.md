@@ -15,6 +15,12 @@ Adis Mahmic: Data Analyzer and Project Documentor
 
 Hannah Jensen: Data Analyzer and Project Documentor 
 
+<img
+  src="https://github.com/user-attachments/assets/9b7b2edc-ed8e-44a6-90cd-3b0498671629"
+  alt="Image Jan 18, 2026"
+  width="256"
+  height="384"/>
+
 Kiara Pineda: Visualizer and Client Liaison
 
 Yangchen Lhamo: Data Modeler and Team Manager 
