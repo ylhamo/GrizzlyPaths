@@ -23,6 +23,14 @@ Hannah Jensen: Data Analyzer and Project Documentor
 
 Kiara Pineda: Visualizer and Client Liaison
 
+<img
+  src="https://github.com/user-attachments/assets/26b51225-8f30-4d11-b757-c1ab0ccfd815"
+  alt="1000022667"
+  width="256"
+  height="384"/>
+
+
+
 Yangchen Lhamo: Data Modeler and Team Manager 
 
 <img 
