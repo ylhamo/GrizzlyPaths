@@ -2,8 +2,6 @@
 
 ## Team: Grizzly26
 
-Team Structure
-
 Hannah & Adis : Data Analyzer and Project Documentor 
 
 Kiara: Visualizer and Client Liaison
