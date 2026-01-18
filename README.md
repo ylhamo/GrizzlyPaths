@@ -1,6 +1,6 @@
 # GrizzlyPaths
 
-Team: Grizzly26
+## Team: Grizzly26
 
 Team Structure
 
@@ -29,3 +29,6 @@ To better align coursework with industry expectations, a faculty survey was desi
 In Spring 2026, the team will focus on gathering recent survey data and updated skill-based information from job posting platforms such as Indeed, LinkedIn, and similar sources. The analysis will specifically target IT majors including Software Development, Digital Media, Systems and Security, Enterprise Systems, and Artificial Intelligence. The team will be responsible for cleaning, analyzing, and synthesizing this data to identify the most in-demand technical and soft skills for each major.
 
 Additionally, the team will help refine the mapping between job-required skills and GGC courses, ensuring the tool reflects current curriculum offerings and industry expectations. This phase will strengthen the accuracy and usefulness of the platform, laying the groundwork for future development and long-term sustainability as a practical career-planning resource for IT students.
+
+## Techologies 
+ Github, Jupyter, Python, JS, HTML/CSS, Markdown
